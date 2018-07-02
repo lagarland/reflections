@@ -18,6 +18,8 @@ organized? How would branches help?
 	Branches can be helpful when you're creating simultaneous versions of files that you want to keep track of. Branches help by tracking changes along a certain path while still keeping other working versions with other variances.
 
 How do the diagrams help you visualize the branch structure?
+	
+	The diagrams help you see the paths that connect different commits, as well as helping you see the commits that aren't connected to each other and are unreachable in a linear path.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
