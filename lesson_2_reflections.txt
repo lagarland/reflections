@@ -23,6 +23,9 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	
+	Merging 2 branches together keeps all new changes and deletes any deleted changes on either version in order to create one merged file of the two versions. The parent paths for these 2 versions are maintained and stored chronologically in order to track where each change happened. 
+	The diagram represents the splitting of the two versions into separate paths followed by the subsequent merger of the two final versions from each brach. This helps us track how and where the changes were made in the different branches.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
