@@ -14,6 +14,8 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	Branches can be helpful when you're creating simultaneous versions of files that you want to keep track of. Branches help by tracking changes along a certain path while still keeping other working versions with other variances.
 
 How do the diagrams help you visualize the branch structure?
 
