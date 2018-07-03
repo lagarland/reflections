@@ -23,7 +23,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Without Git or GitHub, I'd probably collaborate using something like GoogleDrive or Dropbox, where files are able to be shared and updated. You can keep copies locally, or make them accessible offline. If you're collaborating and working offline, you need to manually check for differences before uploading a file that was changed locally. On GoogleDrive, versions can be updated simultaneously if the various collaborators are all online, and version histories are shared. Version histories are trackable, if they autosaved or you forced a save, and changes are color coded by collaborator to track who made changes. If you make changes independently offline, though, the only way to merge documents would be a full side by side comparison, otherwise one document will overwrite the other. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
