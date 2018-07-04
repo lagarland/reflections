@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Making changes in a separate branch allows you to keep track of changes that you're making separately from the main shared filed that you are collaborating on. Making changes to the main branch tracks ongoing changes to the main document. Making changes to the branch allows you to make smaller changes to then discuss with collaborators and decide together whether they should be merged back to the main branch, amended and merged, or discarded.
